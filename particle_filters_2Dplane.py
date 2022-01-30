@@ -1,4 +1,4 @@
-# This code first radomly spreads 1000 number of particles in the 2D plane and then finds out how likely the location of each of the particles is. 
+# This code first randomly spreads 1000 number of particles in the 2D plane and then finds out how likely the location of each of the particles is. 
 #Based on its probability, it removes the unlikely partcles and chooses the likely particles.
 
 from math import *
